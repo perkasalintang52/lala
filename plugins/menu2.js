@@ -187,14 +187,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: 'MY WEB',
-               url: 'https://youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng'
+               url: 'https://instagram.com/joceylintangg'
              }
 
            },
              {
              urlButton: {
                displayText: 'MY GROUP',
-               url: 'https://chat.whatsapp.com/GngfXIF8XmgHf9Gm7MQFps'
+               url: 'https://tiktok.com/@joceylintangg'
              }
 
            },
